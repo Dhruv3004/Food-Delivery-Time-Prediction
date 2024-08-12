@@ -1,3 +1,5 @@
+![logo](https://github.com/Dhruv3004/Food-Delivery-Time-Prediction/blob/main/thumbnail.png?raw=true)
+
 # Food Delivery Time Prediction
 
 This project aims to predict the delivery time of food orders using various features like the delivery person's age, ratings, weather conditions, and more. The goal is to enhance the accuracy of delivery time estimates, which can improve customer satisfaction and operational efficiency for food delivery services.
